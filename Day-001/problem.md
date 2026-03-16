@@ -24,3 +24,6 @@ STEPS:
 4. If current element equals to candidate , count increase.
 5. If current element not equals to candidate , count decrease.
 6. Hence , candidate is the majority element.
+
+Time complexity = O(n)
+Space complexity =O(1)
